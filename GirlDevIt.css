@@ -1,0 +1,50 @@
+/*
+* Suzanne Melia
+* November 6, 2018 
+* GirlDevIt" 
+*/ 
+
+/*The Universal selector */
+
+/* Body attributes here */
+
+header { 
+    background-color: #ff6666
+/* This is a HEX code */
+}
+
+body {
+background-color: #ffcccc;
+font-family: Helvetica;
+} 
+
+/* The background color and font displayed throughout the body paragraph */
+h1 {text-decoration: underline;
+    font-family: "Apple Chancery";}
+
+
+#logo {height: 200px;
+       width: 600p;}
+#photo1 {width:300px; height:200px; float:right;}
+#Photo2 {width:300px; height:200px; float: right;}
+/*These are the photos that are displayed o the web page, and clarifies the height and width of the photos */ 
+
+
+h2 { 
+    font-family: "Apple Chancery";
+    text-decoration: underline;
+}
+/* Text-Decoration specifies decoration added to the text; underline */
+
+
+footer {
+    font-family: serif
+}
+
+a:hover {
+    color:fuchsia;
+    font-size: 150%;
+}
+/* :hover is used to change the appearence of links when a user places the mouse over it. By changing the color and font-size, when hovering over the link, it will change color and change in size */
+
+
